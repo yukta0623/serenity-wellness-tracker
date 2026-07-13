@@ -8,7 +8,6 @@ A neumorphic-styled wellness and mood tracking app built with pure HTML5, CSS3, 
 ![Made with HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Made with CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Made with JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🔗 Live Demo
 
@@ -55,7 +54,6 @@ Serenity is a single-page application for logging daily mood, tracking habits, a
 serenity-wellness-tracker/
 ├── index.html          # Entire app — markup, styles, and script in one file
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
@@ -79,6 +77,3 @@ Documented directly from the project's original planning notes:
 **Yukta Brahmankar**
 Student, Walchand College of Engineering, Sangli
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
